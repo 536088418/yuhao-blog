@@ -33,7 +33,7 @@
 
 
 ## TODO
-- [ ] python基础知识
+- [x] python基础知识
 
-- [ ] python基础项目
+- [x] python基础项目
 
